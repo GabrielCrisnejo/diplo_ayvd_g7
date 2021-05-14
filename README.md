@@ -7,7 +7,7 @@ Integrantes:
 - Rafael Borneo Benista
 - Gastón Valvassori
 
-## Sobre la carpeta gv_notebook
+## Sobre la carpeta notebooks_practica
 
 Acá estarán las notebooks que editemos en las tareas que hagamos en clases o cuando practiquemos.
 
